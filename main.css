@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0.2rem;
+}
+
+ul{
+    /* margin: 0;
+    padding: 0; */
+    font-size: larger;
+    line-height: 2.5rem;
+    
+}
+
+h1 {
+    font: 900;
+    font-size: 5rem;
+    padding: 1rem;
+    color: #083;
+    text-shadow: -3px -3px 0 black;
+}
+
+li {
+    list-style-type: circle;
+    font-size: 1.5rem;
+}
